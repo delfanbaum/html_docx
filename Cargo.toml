@@ -1,0 +1,8 @@
+[package]
+name = "html_docx"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+docx = "1.1.2"
+scraper = "0.20.0"
